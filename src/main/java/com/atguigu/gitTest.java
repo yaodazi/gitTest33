@@ -5,5 +5,6 @@ public class gitTest {
         System.out.println("maste!!!!");
         System.out.println("hot(添加)");
         System.out.println("master");
+        System.out.println("gaiwanle-hotfix");
     }
 }
